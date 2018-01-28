@@ -1,0 +1,29 @@
+{
+    "name": "blog-server-for-beaumont",
+    "version": "1.0.0",
+    "scripts": {
+        "start": "nodemon server"
+    },
+    "dependencies": {
+        "bcrypt": "^5.0.1",
+        "bcryptjs": "^2.4.3",
+        "body-parser": "^1.15.2",
+        "cors": "^2.8.5",
+        "express": "^4.17.3",
+        "jsonwebtoken": "^8.5.1",
+        "lodash": "^4.17.21",
+        "logger": "0.0.1",
+        "moment": "^2.29.2",
+        "multer": "^1.4.4",
+        "mysql": "^2.11.1",
+        "node-querybuilder": "^2.1.1",
+        "nodemon": "^2.0.15",
+        "oauth": "^0.9.14",
+        "path": "^0.12.7",
+        "querybuilder": "^1.1.0",
+        "squel": "^5.13.0",
+        "uuid": "^8.3.2"
+    },
+    "author": "Mr Dev: Furuya Nobuo",
+    "license": "ISC"
+}
